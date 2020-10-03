@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mi calculadora</string>
+    <string name="boton_sumar">sumar</string>
+    <string name="boton_restar">Restar</string>
+    <string name="boton_multiplicar">Multiplicar</string>
+    <string name="boton_dividir">Dividir</string>
+    <string name="titulo">Calculadora simple</string>
+    <string name="valor">Ingrese un numero:</string>
+    <string name="mensaje">Solo se puede recibir enteros:</string>
+    <string name="resultado">0</string>
+
+</resources>

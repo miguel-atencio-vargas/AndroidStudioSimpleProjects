@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application 3</string>
+    <string name="Titulo">Comprueba si lograste aprobar la materia</string>
+    <string name="materia">Ingresa el nombre de la materia</string>
+</resources>

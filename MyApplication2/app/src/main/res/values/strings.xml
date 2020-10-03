@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo">Mi calculadora V2</string>
+    <string name="boton_sumar">Sumar</string>
+    <string name="boton_restar">Restar</string>
+    <string name="boton_multiplicar">Multiplicar</string>
+    <string name="boton_dividir">Dividir</string>
+    <string name="boton">Calcular la operación</string>
+    <string name="ingrese_un_numero">Ingrese un numero</string>
+    <string name="ingrese_el_segundo_numero">Ingrese el segundo numero</string>
+    <string name="resultado">Resultado</string>
+</resources>
